@@ -1,13 +1,13 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: Masters in Software Engineering with Management Studies
+  uni: Kingston University, London, UK
+  year: 2022 &mdash; 2023
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: 1st class Expected
+  # summary: If you had any meaningful roles at college, feel free to write about them here
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Bachelors in Software Engineering
+  uni: University of Engineering and technology, Taxila, Pakistan
+  year: 2017 &mdash; 2021
+  award: 3.56/4.0
+  # summary: You can choose to have either a single or multiple awards

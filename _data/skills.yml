@@ -1,12 +1,9 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Languages
+  description: Kotlin, Java, Dart, Python, SQL
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Technologies
+  description: Android, Flutter, REST API, JSON, Firebase, Jetpack Compose, Coroutines, Figma, Git, OkHttp + Retrofit, Google Maps, Jira, HTML5, CSS3, HTTP, TCP/IP
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Concepts
+  description: Scrum, AgilePM, DevOps, Object- Oriented Programming, MVC, MVVM

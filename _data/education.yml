@@ -9,5 +9,6 @@
 - degree: Bachelors in Software Engineering
   uni: University of Engineering and technology, Taxila, Pakistan
   year: 2017 &mdash; 2021
-  award: 3.56/4.0
+  awards: 
+    - award: 3.56/4.0
   # summary: You can choose to have either a single or multiple awards

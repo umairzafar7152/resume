@@ -2,15 +2,23 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
+- project: Rent Out
   role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+  duration: Android, Kotlin
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: <ul class="resume-item-list"><li>Peer-to-peer rental platform that facilitates resource sharing and sustainability for users across the UK.</li><li>Allows user to find out rent items based on their location and other filters and talk with the product owners to negotiate.</li>
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: Flip Memory
+  role: Founder & Primary Developer
+  duration: Android, Kotlin
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: <ul class="resume-item-list"><li>Developed an engaging memory-challenging game containing pairs of hidden images that required users to remember and find those pairs, providing an engaging and fun experience.</li><li>Aiming to enhance memory and cognitive skills of users.</li>
+
+- project: Backer Marathon
+  role: Co-Founder & Developer
+  duration: Android, Flutter
+  # url: "#"
+  description: <ul class="resume-item-list"><li>Streamlined the process of calculating Cartridge Heater prices for clients and administrators.</li><li>Increased pricing accuracy and efficiency for over 5,000 users and administrators</li>
+
+

@@ -14,7 +14,7 @@
 
 
 # Communications Coordinator
-- company: Intrasols - Islamabad, Pakistan
-  position: Android App Develer Internship
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: <ul class="resume-item-list"><li>Responsible for writing code in Java for developing parts of android apps</li><li>Involved in documenting my work and updating project documentation</li><li>Developed strong understanding of activity lifecycle, LiveData, and ViewModel in Android</li><li>UI design implementation of applications in Android Studio</li></ul>
+- company: Arcana Info - Islamabad, Pakistan
+  position: DevOps Engineer
+  duration: Apr, 2020 &mdash; Jan, 2021
+  summary: <ul class="resume-item-list"><li>Led the implementation of DevOps practices within the organization, streamlining the software development lifecycle and enhancing collaboration between development and operations teams.</li><li>Automated deployment pipelines using tools such as Jenkins, Docker, and Kubernetes, resulting in a 40% reduction in deployment time and increased efficiency in software delivery.</li><li>Managed infrastructure as code using Terraform, ensuring consistency and reliability across environments, while reducing manual errors in provisioning.</li><li>Implemented monitoring and alerting systems with Prometheus and Grafana, providing real-time visibility into system health and enabling proactive issue resolution.</li><li>Collaborated with development teams to optimize application performance and scalability, leveraging cloud platforms such as AWS and Azure.</li><li>Ensured adherence to security best practices by implementing robust access control policies, encryption mechanisms, and vulnerability scanning tools.</li><li>Participated in regular cross-functional meetings and Agile ceremonies to align DevOps initiatives with business objectives and drive continuous improvement.</li></ul>

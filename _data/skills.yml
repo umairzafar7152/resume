@@ -1,9 +1,9 @@
 # Skills
 - skill: Languages
-  description: Kotlin, Java, Dart, SQL, JavaScript, Python, C#
+  description: Kotlin, Python, Java, Dart, SQL, JavaScript
 
 - skill: Technologies
-  description: Android, Flutter, REST, JSON, Firebase (Authentication, Firestore, Cloud Messaging, Cloud Functions), Git, OkHttp + Retrofit, Google Maps API, ASP.NET, HTTP, TCP/IP, Jira, HTML5, CSS3, Jetpack Compose, Coroutines, NumPy, Pandas
+  description: Android, Flutter, REST, JSON, Firebase (Authentication, Firestore, Cloud Messaging, Cloud Functions), Jetpack Compose, Coroutines, Git, Github, GitLab, OkHttp + Retrofit, Room, Hilt, SQLite, Google Maps API, Unit testing, Junit, HTTP, TCP/IP, Jira, HTML5, CSS3, Bootstrap, PostgreSQL,  NumPy, Pandas, Django, Flask, Matplotlib, Jira, Kubernetes, Jenkins, Docker, Terraform, AWS, Azure
 
 - skill: Concepts
   description: Scrum, AgilePM, DevOps, Object-Oriented Programming, MVC, MVVM, CI/CD, BLoC, Data Modelling & Normalisation, Machine Learning
